@@ -24,5 +24,6 @@ def find_min_in_nested_arrays(src)
   end
   
   # Above says while count is less than the array of array length. print the count index of the array of array
-  # Using p will display each array, but puts will output all the values inside those arrays! We can use p here to make the output a little clearer.
+  # Using p will display each array, but puts will output all the values inside those arrays! We can use p here to make the output a little clearer. We will want to use p for our example. 
+  
   
