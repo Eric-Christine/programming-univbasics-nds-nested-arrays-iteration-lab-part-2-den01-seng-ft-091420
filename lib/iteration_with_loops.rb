@@ -14,5 +14,11 @@ def find_min_in_nested_arrays(src)
   src[0][1]
   src[0][2]
   
+  # If we wanted to print out each nested array via a loop, we would write: 
   
+  count = 0
+  
+  while count < src.length do
+    p src[count]
+    count += 1
 end
