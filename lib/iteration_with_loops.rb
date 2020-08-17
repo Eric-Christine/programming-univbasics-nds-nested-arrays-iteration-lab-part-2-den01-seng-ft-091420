@@ -30,8 +30,11 @@ def find_min_in_nested_arrays(src)
   results_array=[]
   
 count = 0 
+results_array = []
   while count < src.length do
-    p src[count].min
+    results_array << src[count].min
+    
     count += 1
   end 
+results_array
   
